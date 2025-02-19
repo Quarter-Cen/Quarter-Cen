@@ -28,5 +28,4 @@ Hi 👋, I'm **Kanok Saengjan**. Also **Pan**.
 </p>
 
 
-![Quarter-Cen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quarter-Cen&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-![WakaTime](https://wakatime.com/badge/user/QuarterCen.svg)
+<figure><embed src="https://wakatime.com/share/@QuarterCen/f2083339-dc0f-44d5-a794-446861054c85.svg"></embed></figure>
