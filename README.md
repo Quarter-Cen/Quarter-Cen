@@ -28,4 +28,4 @@ Hi 👋, I'm **Kanok Saengjan**. Also **Pan**.
 </p>
 
 
-<figure><embed src="https://wakatime.com/share/@QuarterCen/f2083339-dc0f-44d5-a794-446861054c85.svg"></embed></figure>
+![WakaTime Stats](https://wakatime.com/share/@QuarterCen/f2083339-dc0f-44d5-a794-446861054c85.svg)
