@@ -13,7 +13,7 @@
 	💡 I'm currently expanding my skills in <strong>system administration</strong>, <strong>automation</strong>, and <strong>cloud infrastructure</strong>.
 </p>
 <p align="center">
-	>[<strong>DevOps Learning Roadmap</strong>](https://github.com/Quarter-Cen/learning-devops-roadmap)
+	<a href="https://github.com/Quarter-Cen/learning-devops-roadmap"><strong>DevOps Learning Roadmap</strong></a>
  </p>
 	
 ##
