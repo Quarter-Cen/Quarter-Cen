@@ -1,5 +1,5 @@
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=66E438&center=true&vCenter=true&width=435&lines=Building+and+automating+systems...;Learning+DevOps...;Hello,+welcome+to+my+profile!;System+Engineer+in+the+making..."/>
 </p>
 
 <h1 align="center">
