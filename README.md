@@ -10,7 +10,7 @@
 	Welcome to my GitHub profile! I'm a student on a learning journey from software development to a career as a proficient System Engineer. I'm passionate about building and automating scalable systems. 🚀
 </p>
 <p align="center">
-	🌱 I'm currently expanding my skills in <strong>system administration</strong>, <strong>automation</strong>, and <strong>cloud infrastructure</strong>.
+	💡 I'm currently expanding my skills in <strong>system administration</strong>, <strong>automation</strong>, and <strong>cloud infrastructure</strong>.
 </p>
 
 ##
