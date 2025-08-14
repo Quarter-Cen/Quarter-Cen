@@ -15,6 +15,8 @@
 
 ##
 
+---
+
 <h3 align="left">👨‍💻 Core Programming Skills</h3>
 <p align='left'>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40"/>
@@ -22,6 +24,8 @@
     <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="40"/>
 </p>
+
+---
 
 <h3 align="left">🛠️ Tools & Technologies I'm Exploring</h3>
 <p align='left'>
