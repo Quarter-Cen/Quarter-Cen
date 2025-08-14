@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=66E438&center=true&vCenter=true&width=435&lines=Building+and+automating+systems...;Learning+DevOps...;Hello,+welcome+to+my+profile!;System+Engineer+in+the+making..."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=66E438&center=true&vCenter=true&width=435&lines=Building+and+automating+systems...;Learning+DevOps...;Hello,+welcome+to+my+profile!;System+Engineer+in+the+making..."/>
 </p>
 
 <h1 align="center">
@@ -15,7 +15,6 @@
 
 ##
 
----
 
 <h3 align="left">👨‍💻 Core Programming Skills</h3>
 <p align='left'>
@@ -25,7 +24,7 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="40"/>
 </p>
 
----
+##
 
 <h3 align="left">🛠️ Tools & Technologies I'm Exploring</h3>
 <p align='left'>
