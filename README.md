@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">
-	Hi there 👋, I'm **Kanok Saengjan**.
+	Hi there 👋, I'm <strong>Kanok Saengjan</strong>.
 </h1>
 <br/>
 <p align = "center">
 	Welcome to my GitHub profile! I'm a student on a learning journey from software development to a career as a proficient System Engineer. I'm passionate about building and automating scalable systems. 🚀
 </p>
 <p align="center">
-	🌱 I'm currently expanding my skills in **system administration**, **automation**, and **cloud infrastructure**.
+	🌱 I'm currently expanding my skills in <strong>system administration</strong>, <strong>automation</strong>, and <strong>cloud infrastructure</strong>.
 </p>
 
 ##
